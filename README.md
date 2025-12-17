@@ -1,0 +1,1 @@
+Repository for the development of a 6x9 and 6x12 modular camera with no movements, to use large/ medium format lens/shutter combinations. Primarily aimed at wide angle lenses (100mm and shorter), although longer lenses could be accomodated using a 3d printed lens cone (currently assuming a flat metal plate for the front of the camera)
